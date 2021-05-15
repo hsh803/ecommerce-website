@@ -1,4 +1,4 @@
-# Web development - lgh11
+# E-commerce Website development
 
 - Role: Web developer <br>
 - Website: https://lgh11.com/ <br>
