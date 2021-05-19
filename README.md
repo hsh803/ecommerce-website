@@ -2,11 +2,14 @@
 
 - Role: Web developer <br>
 - Website: https://lgh11.com/ <br>
-- Description: Build, maintain the website using Wordpress
+- Description: creating, customizing, maintaining the website in Wordpress
 
 ## Development Timeline
 
 > 2021/03
+1. Navigation menu in header for Mobile device
+* Customizing navgation menu list in header for Mobile device - Responsive design CSS
+* Creating Category list in dropdown for Mobile device - Responsive design CSS
 
 > 2021/02
 1. Theme
@@ -16,9 +19,15 @@
 * Header: Adding logo, navigation menu, search bar, shopping cart and Customizing CSS
 * Main: Adding Slider function
 * Footer: Setting Newsletter subscription function, social media icons and Customizing CSS
-3. Gerneral functions
+3. General CSS
+* Styling links, buttons - text decoration, hover color
+4. Gerneral functions
 * Cookies - Setting plugin & Customizing CSS
 * "Go to top" - Setting plugin & Customizing CSS
-* "Facebook Messenger live chat" - Setting & Customizing CSS
-4. Woocommerce Product page
-* Creating Product content structure
+* "Facebook Messenger live chat" - Setting plugin & Customizing CSS
+* Website translation function - setting plugin
+5. Woocommerce Product page
+* Creating Product page - using Woocommerce
+6. Checkout page
+* Creating the form in checkout page for order -  using Woocommerce & Customizing CSS
+
