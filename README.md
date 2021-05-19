@@ -17,6 +17,7 @@
 * Main: Adding Slider function
 * Footer: Setting Newsletter subscription function, social media icons and Customizing CSS
 3. Gerneral functions
+* Cookies - Setting plugin & Customizing CSS
 * "Go to top" - Setting plugin & Customizing CSS
 * "Facebook Messenger live chat" - Setting & Customizing CSS
 4. Woocommerce Product page
