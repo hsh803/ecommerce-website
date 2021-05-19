@@ -8,7 +8,7 @@
 
 > 2021/03
 
-> 2021/02
+>> 2021/02
 1. Theme
 * Advicing on web hosting & content managemnet platform service for the e-commerce website <br>
 * Selecting the theme, Creating child theme - Storefront <br>
