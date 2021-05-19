@@ -6,15 +6,17 @@
 
 ## Development Timeline
 
+> 2021/05
+> 2021/04
 > 2021/03
 
 > 2021/02
 1. Theme
-* Advicing on web hosting & content managemnet platform service for the e-commerce website <br>
-* Selecting the theme, Creating child theme - Storefront <br>
+* Advicing on web hosting & content managemnet platform service for the e-commerce website
+* Selecting the theme, Creating child theme - Storefront
 2. Header, Main, Footer
-* Header: Adding logo, navigation menu, search bar, shopping cart and Customizing CSS <br>
-* Main: Adding Slider function <br>
+* Header: Adding logo, navigation menu, search bar, shopping cart and Customizing CSS
+* Main: Adding Slider function
 * Footer: Setting Newsletter subscription function, social media icons and Customizing CSS
 3. Gerneral functions
 * "Go to top" - Setting plugin & Customizing CSS
