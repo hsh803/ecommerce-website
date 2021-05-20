@@ -6,16 +6,29 @@
 
 ## Development Timeline
 
+> 2021/05
+
+> 2021/04
+1. General function
+* Website translation function - setting plugin and activating Google API for using automatic Google translate
+* Customizing structure and automatic mail sending fucntion
+* Changing to another plugin for Newsletter subscription section and customzing CSS newly.
+2. Responsive design for Mobile device
+* Customizing CSS in footer
+3. Testing functions 
+* Newsletter subscription
+* Contact forms attaching files
+
 > 2021/03
-1. Responsive design for Mobile device
+4. Responsive design for Mobile device
 * Customizing navgation menu list in header
+* Adding subnavigation menu on Product page 
 * Creating category dropdown list in Product page
 * Customizing "Go to top", "Facebook Messenger live chat" function icons in bottom
 * Newsletter subscription section
-2. General function 
-* Website translation function - setting plugin and activating Google API for using automatic Google translate
+5. General function 
 * Adding file upload function to contact form - setting plugin & customizing CSS
-3. Customizing css for private product pages to special order
+6. Customizing css to special product page for special order service 
 
 > 2021/02
 1. Theme
