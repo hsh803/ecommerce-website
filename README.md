@@ -7,6 +7,8 @@
 ## Development Timeline
 
 > 2021/05
+1. checkout page
+* Creating and customizing Shipping method list on orders - using Woocommerce & customizing PHP file
 
 > 2021/04
 1. General function
@@ -20,15 +22,15 @@
 * Contact forms attaching files
 
 > 2021/03
-4. Responsive design for Mobile device
+1. Responsive design for Mobile device
 * Customizing navgation menu list in header
 * Adding subnavigation menu on Product page 
 * Creating category dropdown list in Product page
 * Customizing "Go to top", "Facebook Messenger live chat" function icons in bottom
 * Newsletter subscription section
-5. General function 
+2. General function 
 * Adding file upload function to contact form - setting plugin & customizing CSS
-6. Customizing css to special product page for special order service 
+3. Customizing css to special product page for special order service 
 
 > 2021/02
 1. Theme
@@ -47,5 +49,5 @@
 5. Woocommerce Product page
 * Creating Product page - using Woocommerce
 6. Checkout page
-* Creating the form in checkout page for order -  using Woocommerce & Customizing CSS
+* Creating the form in checkout page for order - using Woocommerce & Customizing CSS
 
