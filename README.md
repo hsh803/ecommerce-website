@@ -9,6 +9,8 @@
 > 2021/05
 1. checkout page
 * Creating and customizing Shipping method list on orders - using Woocommerce & customizing PHP file
+2. Post page
+* Creating & Customizing post page - Customizing PHP file & CSS
 
 > 2021/04
 1. General function
@@ -25,12 +27,12 @@
 1. Responsive design for Mobile device
 * Customizing navgation menu list in header
 * Adding subnavigation menu on Product page 
-* Creating category dropdown list in Product page
+* Creating category dropdown list in Product page - Customizing PHP file
 * Customizing "Go to top", "Facebook Messenger live chat" function icons in bottom
 * Newsletter subscription section
 2. General function 
 * Adding file upload function to contact form - setting plugin & customizing CSS
-3. Customizing css to special product page for special order service 
+3. Customizing css to special product page for special order service - Customizing PHP file
 
 > 2021/02
 1. Theme
