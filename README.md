@@ -7,13 +7,13 @@
 ## Development Timeline
 
 > 2021/05
-1. checkout page
+1. Checkout page
 * Creating and customizing Shipping method list on orders - using Woocommerce & customizing PHP file
 2. Post page
 * Creating & Customizing post page - Customizing PHP file & CSS
 
 > 2021/04
-1. General function
+1. General functions
 * Website translation function - setting plugin and activating Google API for using automatic Google translate
 * Customizing structure and automatic mail sending fucntion
 * Changing to another plugin for Newsletter subscription section and customzing CSS newly.
@@ -30,7 +30,7 @@
 * Creating category dropdown list in Product page - Customizing PHP file
 * Customizing "Go to top", "Facebook Messenger live chat" function icons in bottom
 * Newsletter subscription section
-2. General function 
+2. General functions
 * Adding file upload function to contact form - setting plugin & customizing CSS
 3. Customizing css to special product page for special order service - Customizing PHP file
 
