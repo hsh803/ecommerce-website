@@ -10,7 +10,7 @@
 1. Checkout page
 * Creating and customizing Shipping method list on orders - using Woocommerce & customizing PHP file
 2. Post page
-* Creating & Customizing post page - Customizing PHP file & CSS
+* Creating & Customizing post page - setting plugin & Customizing CSS
 * Adjusting the function of showing previous/next posts in same category - Customizing PHP file  
 
 > 2021/04
