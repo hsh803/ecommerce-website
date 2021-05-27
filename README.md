@@ -2,7 +2,7 @@
 
 - Role: Web developer <br>
 - Website: https://lgh11.com/ <br>
-- Description: creating, customizing, maintaining the website in Wordpress
+- Responsibilities: creating, customizing, maintaining the website in Wordpress
 
 ## Development Timeline
 
